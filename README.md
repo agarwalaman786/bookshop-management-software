@@ -1,0 +1,1 @@
+# bookshope-management-software
